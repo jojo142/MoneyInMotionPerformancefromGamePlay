@@ -1,4 +1,6 @@
 # MoneyInMotionPerformancefromGamePlay
+<img width="1060" alt="kaggle" src="https://github.com/jojo142/MoneyInMotionPerformancefromGamePlay/assets/76130563/fa405b94-d07b-4028-a5bb-a2096b81a6be">
+
 
 ## Feature Engineering:
 The first section of the code focuses on feature engineering. It includes a function called feature_engineer that takes a train dataset as input and performs various feature engineering operations. The code utilizes different grouping and aggregation techniques to generate new features based on categorical and numerical variables. The final output is a processed dataframe containing the engineered features.
